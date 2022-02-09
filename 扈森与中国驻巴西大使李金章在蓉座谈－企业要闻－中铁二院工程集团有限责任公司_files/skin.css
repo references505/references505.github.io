@@ -1,0 +1,36 @@
+﻿#Body
+{
+background:url(/Portals/0/images/bodybg.gif) repeat-x;
+}
+.wrap
+{
+width:1024px; margin:0 auto;
+}
+.top_headleft
+{
+width:200px; padding-left:10px;
+}
+.top_headright
+{
+width:140px; padding-right:10px;
+}
+.main
+{
+width:1004px; padding:10px; background:#FFF;
+}
+.mian_left
+{
+width:245px;
+}
+.mian_right
+{
+width:742px;
+}
+.foot_auto
+{
+width:1024px; margin:0 auto;
+}
+.foot_bg
+{
+background:url(/Portals/0/images/footerbg.gif) repeat-x;
+}

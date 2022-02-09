@@ -1,0 +1,16 @@
+﻿.mod06
+{
+	width:100%; margin-bottom:10px;background:url(mod06conbg.jpg) no-repeat left bottom; padding-bottom:10px;
+
+}
+.mod06 h1
+{
+	background:url(mod06h1bg.jpg) no-repeat; height:51px; margin:0;line-height:51px;
+}
+.mod06 .head
+{
+	display:block; float:left; font-size:20px; color:#fff; font-weight:bold; padding-left:23px;
+}
+.mod06 .content
+{
+	border:1px solid #0d64cf; border-top:none; }

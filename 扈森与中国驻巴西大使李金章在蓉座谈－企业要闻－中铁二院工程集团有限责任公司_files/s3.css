@@ -1,0 +1,30 @@
+﻿.ql { text-align:left; vertical-align:top; padding:0; margin:0 auto; width:216px; }
+.ql a { white-space: normal; /*word-break:break-all;*/ word-wrap:break-word; cursor:pointer; margin:0; font-family: Tahoma, Arial, Helvetica; color:#FFFFFF; height:100%; display: block; }
+.ql ul { width:100%; margin:0; padding:0; height:100%; list-style: none; }
+.ql li { padding:0; margin:0; text-align:left; vertical-align:middle; list-style-type:none; }
+
+.ql .level0 { background:url(/Portals/0/images/xmla.jpg)  no-repeat; width:100%;  margin:0; line-height:36px; }
+.ql .level0 ul {  }
+.ql .level0 A { font-size:14px; color:#1d1d1d;  padding-left:10px;margin:0; height:100%; display: block;font-weight:bold;  text-decoration:none;}
+.ql .level0 A:hover { font-size:14px; color:#014fb0; font-weight:bold;  padding-left:10px; margin:0; height:100%; display: block; background:url(/Portals/0/images/xmla.jpg) no-repeat; text-decoration:none; }
+.ql a.level0_selected:link, .ql a.level0_selected:active, .ql a.level0_selected:visited /*二级不带子菜单的过背景图样式*/ { background:url(/Portals/0/images/xmla.jpg) no-repeat; color:#014fb0; font-weight:bold; font-size:14px; padding-left:10px;} /*被点击之后*/
+.ql a.level0_withsubselected:link, .ql a.level0_withsubselected:active, .ql a.level0_withsubselected:visited /*二级带子菜单的过背景图样式*/ { background:url(/Portals/0/images/xmla.jpg) no-repeat; color:#014fb0; padding-left:10px;font-weight:bold; }
+
+.ql .level1 { width:100%; padding:0; margin:0; background:url(/Portals/0/images/xmlbb.jpg) no-repeat 31px center;line-height:28px; }
+.ql .level1 ul { margin:0; padding:0; }
+.ql .level1 a { font-weight:normal; padding-left:45px; display: block; font-size:12px; color:#686868; font-weight:bold; }
+.ql .level1 A:hover {  background: url(/Portals0/images/xmlbh.jpg) no-repeat 31px center;  font-size:12px; color:#ff7200; padding-left:45px;font-size:12px; color:#ff7200; }
+.ql a.level1_selected:link, .ql a.level1_selected:active, .ql a.level1_selected:visited { background: url(/Portals/0/images/xmlbh.jpg) no-repeat  31px center; font-size:12px;  padding-left:45px;font-size:12px; color:#ff7200;font-weight:bold; } /*被点击之后*/
+.ql a.level1_withsubselected:link, .ql a.level1_withsubselected:active, .ql a.level1_withsubselected:visited { display: block; padding-left: 63px; background: url(/Portals/0/images/xmlbh.jpg) no-repeat 31px center; padding-left:45px; font-size:12px; color:#ff7200;font-weight:bold;}
+
+
+.ql .level2 { width:100%; padding:0; margin:0;background:url(/Portals/1/images/ql12_ah.gif) no-repeat; line-height:30px; height:30px; }
+.ql .level2 ul { margin:0; padding:0; }
+.ql .level2 a { padding-left:86px; background:url(/Portals/1/images/ql12_ah.gif) no-repeat;  display: block;padding-left:86px; }
+.ql .level2 A:hover {  background: url(/Portals/1/images/ql12_ah.gif) no-repeat;  font-size:12px; color:#8f8f8f; padding-left:86px;font-size:12px;  color:#8f8f8f; }
+.ql a.level2_selected:link, .ql a.level2_selected:active, .ql a.level2_selected:visited { display: block; padding-left: 86px; background:url(/Portals/1/images/ql12_ah.gif) no-repeat;padding-left:86px;font-weight:bold; color:#8f8f8f;}
+.ql a.level2_withsubselected:link, .ql a.level2_withsubselected:active, .ql a.level2_withsubselected:visited { display: block; p background:url(/Portals/1/images/ql12_ah.gif) no-repeat; padding-left:86px;font-weight:bold; color:#8f8f8f; font-weight:bold; color:#8f8f8f;}
+
+.ql .level3 { width:100%; padding:0; margin:0; }
+.ql .level3 ul { margin:0; padding:0; }
+.ql .level3 a { background-image:url(images/white-line.jpg); background-repeat:no-repeat; background-position:35px 10px; display: block; padding-left:45px; }
